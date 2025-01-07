@@ -1,0 +1,6 @@
+/* styles.css */
+.list-group-item.completed {
+    text-decoration: line-through;
+    color: gray;
+  }
+  
