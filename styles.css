@@ -30,9 +30,18 @@ body.dark-mode {
     background-color: #155724;
     color: #d4edda;
   }
+  body.dark-mode input::placeholder {
+    color: white;
+  }
+  body.dark-mode .github {
+    color: white;
+  }
   
   .list-group-item {
     text-decoration: none;
+  }
+  .github{
+    color: black;
   }
   
   .completed {
