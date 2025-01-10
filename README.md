@@ -36,18 +36,18 @@ Esta es una aplicación web de lista de tareas (To-Do List) construida con HTML,
    - Aparecerá una alerta verde indicando que la tarea ha sido añadida.
 
 2. **Completar una tarea:**
-   - Haz clic en el botón con el icono de check (`<i class="bi bi-check"></i>`) junto a la tarea.
+   - Haz clic en el botón con el icono de check junto a la tarea.
    - La tarea se marcará como completada y aparecerá una alerta verde indicando que la tarea ha sido completada.
 
 3. **Eliminar una tarea:**
-   - Haz clic en el botón con el icono de la papelera (`<i class="bi bi-trash"></i>`) junto a la tarea.
+   - Haz clic en el botón con el icono de la papelera junto a la tarea.
    - La tarea será eliminada y aparecerá una alerta roja indicando que la tarea ha sido eliminada.
 
 4. **Filtrar tareas:**
    - Usa el botón "Filtrar Tareas" para mostrar todas las tareas, solo las completadas o solo las no completadas.
 
 5. **Modo oscuro y modo claro:**
-   - Haz clic en el botón con el icono de la luna (`<i class="bi bi-moon"></i>`) para alternar entre el modo oscuro y el modo claro.
+   - Haz clic en el botón con el icono de la luna para alternar entre el modo oscuro y el modo claro.
 
 ## Tecnologías Utilizadas
 
