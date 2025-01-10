@@ -61,6 +61,11 @@ Esta es una aplicación web de lista de tareas (To-Do List) construida con HTML,
 
 - **Jairo Alexandro Saborito Franco** - [GitHub](https://github.com/JairoAlexandro)
 
+
+## Visualizar
+
+- [Visualizar la aplicación](https://to-do-list-lake-rho.vercel.app)
+
 ## Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo LICENSE para más detalles.
