@@ -27,7 +27,7 @@ Esta es una aplicación web de lista de tareas (To-Do List) construida con HTML,
     cd ToDoList
     ```
 
-3. Abre el archivo [index.html](http://_vscodecontentref_/1) en tu navegador web.
+3. Abre el archivo index.html en tu navegador web.
 
 ## Uso
 
